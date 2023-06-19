@@ -1,9 +1,6 @@
-.contain{
-	background-color: bisque;
-	height: 50%;
-	width: 50%;
-}
-.contain2{
-	height: 200px;
-	width: 300px;
+.background{
+	/* margin: auto auto; */
+	text-align: center;
+	width: 100%;
+	
 }
